@@ -36,7 +36,9 @@ Download only for person re-identification and person search from [Google Drive]
 ## *Person Search Paper list:
 
 1. Instance Guided Proposal Network for Person Search[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Instance_Guided_Proposal_Network_for_Person_Search_CVPR_2020_paper.pdf)
+
 2. Bi-Directional Interaction Network for Person Search[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Bi-Directional_Interaction_Network_for_Person_Search_CVPR_2020_paper.pdf)
+
 3. Robust Partial Matching for Person Search in the Wild[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhong_Robust_Partial_Matching_for_Person_Search_in_the_Wild_CVPR_2020_paper.pdf)
 4. Cross-Modal Cross-Domain Moment Alignment Network for Person Search[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.pdf)
 5. TCTS: A Task-Consistent Two-Stage Framework for Person Search[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_TCTS_A_Task-Consistent_Two-Stage_Framework_for_Person_Search_CVPR_2020_paper.pdf)
