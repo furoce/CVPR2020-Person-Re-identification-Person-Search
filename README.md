@@ -9,7 +9,7 @@ Downlaod just for person re-identification and person search.[Google Drive]() or
 
 Person Re-identification Paper list:
 
-1. Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking[pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)[code](https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking)
+1. Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)[[code]](https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking)
 2. Inter-Task Association Critic for Cross-Resolution Person Re-Identification[pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Inter-Task_Association_Critic_for_Cross-Resolution_Person_Re-Identification_CVPR_2020_paper.pdf)
 3. Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification[pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Learning_Multi-Granular_Hypergraphs_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)[code](https://github.com/daodaofr/hypergraph_reid)
 4. Online Joint Multi-Metric Adaptation From Frequent Sharing-Subset Mining for Person Re-Identification[pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Online_Joint_Multi-Metric_Adaptation_From_Frequent_Sharing-Subset_Mining_for_Person_CVPR_2020_paper.pdf)
