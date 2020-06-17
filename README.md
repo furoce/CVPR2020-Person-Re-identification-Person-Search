@@ -3,9 +3,9 @@
 All CVPR2020 Papers are [released.](http://openaccess.thecvf.com/CVPR2020.py)
 You can download all the papers from [Google Drive](https://drive.google.com/drive/folders/1bjwANP6PZXEiB7vZL7hM1XtXg9kpSwYx?usp=sharing) or [Baidu Drive,code:7xeh](https://pan.baidu.com/s/15Rp_m2-BnmB_GP_6Qi48rw)
 
-Downlaod just for person re-identification and person search [Google Drive]() or [Baidu Drive,code:xxxx]()
+Downlaod only for person re-identification and person search from [Google Drive](https://drive.google.com/file/d/1UfOlVrg7w34bCYYLOIGP5XK4U5ZsKweQ/view?usp=sharing) or [Baidu Drive,code:1bfd](https://pan.baidu.com/s/14IrwbsqUveBj7JvxD9Ol_g)
 
-Person Re-identification Paper list:
+## *Person Re-identification Paper list:
 
 1. Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)[[code]](https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking)
 2. Inter-Task Association Critic for Cross-Resolution Person Re-Identification[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Inter-Task_Association_Critic_for_Cross-Resolution_Person_Re-Identification_CVPR_2020_paper.pdf)
@@ -31,8 +31,14 @@ Person Re-identification Paper list:
 22. Hierarchical Clustering With Hard-Batch Triplet Loss for Person Re-Identification[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zeng_Hierarchical_Clustering_With_Hard-Batch_Triplet_Loss_for_Person_Re-Identification_CVPR_2020_paper.pdf)[[code]](https://github.com/zengkaiwei/HCT)
 23. Real-World Person Re-Identification via Degradation Invariance Learning[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Real-World_Person_Re-Identification_via_Degradation_Invariance_Learning_CVPR_2020_paper.pdf)
 
+## *Person Search Paper list:
 
-
+1. Instance Guided Proposal Network for Person Search[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Instance_Guided_Proposal_Network_for_Person_Search_CVPR_2020_paper.pdf)
+2. Bi-Directional Interaction Network for Person Search[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Bi-Directional_Interaction_Network_for_Person_Search_CVPR_2020_paper.pdf)
+3. Robust Partial Matching for Person Search in the Wild[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhong_Robust_Partial_Matching_for_Person_Search_in_the_Wild_CVPR_2020_paper.pdf)
+4. Cross-Modal Cross-Domain Moment Alignment Network for Person Search[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.pdf)
+5. TCTS: A Task-Consistent Two-Stage Framework for Person Search[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_TCTS_A_Task-Consistent_Two-Stage_Framework_for_Person_Search_CVPR_2020_paper.pdf)
+6. Norm-Aware Embedding for Efficient Person Search[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Norm-Aware_Embedding_for_Efficient_Person_Search_CVPR_2020_paper.pdf)
 
 
 
