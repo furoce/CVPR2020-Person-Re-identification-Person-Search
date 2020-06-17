@@ -1,8 +1,7 @@
-# CVPR2020_person_re_identification
-CVPR2020 Paper about Person Re-identification and Person Search
+# CVPR2020 Papers about Person Re-identification and Person Search
 
 All CVPR2020 Papers are [released.](http://openaccess.thecvf.com/CVPR2020.py)
-You can download all the papers from [Google Drive](https://drive.google.com/drive/folders/1bjwANP6PZXEiB7vZL7hM1XtXg9kpSwYx?usp=sharing) or [Baidu Drive,code:qj50](https://pan.baidu.com/s/1ZRHj6SbSTrBDTfPWhid6nA)
+You can download all the papers from [Google Drive](https://drive.google.com/drive/folders/1bjwANP6PZXEiB7vZL7hM1XtXg9kpSwYx?usp=sharing) or [Baidu Drive,code:7xeh](https://pan.baidu.com/s/15Rp_m2-BnmB_GP_6Qi48rw)
 
 Downlaod just for person re-identification and person search [Google Drive]() or [Baidu Drive,code:xxxx]()
 
