@@ -3,7 +3,7 @@
 All CVPR2020 Papers are [released.](http://openaccess.thecvf.com/CVPR2020.py)
 You can download all the papers from [Google Drive](https://drive.google.com/drive/folders/1bjwANP6PZXEiB7vZL7hM1XtXg9kpSwYx?usp=sharing) or [Baidu Drive,code:7xeh](https://pan.baidu.com/s/15Rp_m2-BnmB_GP_6Qi48rw)
 
-Downlaod only for person re-identification and person search from [Google Drive](https://drive.google.com/file/d/1UfOlVrg7w34bCYYLOIGP5XK4U5ZsKweQ/view?usp=sharing) or [Baidu Drive,code:1bfd](https://pan.baidu.com/s/14IrwbsqUveBj7JvxD9Ol_g)
+Download only for person re-identification and person search from [Google Drive](https://drive.google.com/file/d/1UfOlVrg7w34bCYYLOIGP5XK4U5ZsKweQ/view?usp=sharing) or [Baidu Drive,code:1bfd](https://pan.baidu.com/s/14IrwbsqUveBj7JvxD9Ol_g)
 
 ## *Person Re-identification Paper list:
 
